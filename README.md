@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kasopej
 - 🌱 I am a frontend developer, and I use VueJS as my Javascript framework
-- 💞️ I’m looking to collaborate on web app projects that rely on vanilla JS or vueJS
 - 📫 How to reach me .. kasopej@gmail.com
 
 <!---
