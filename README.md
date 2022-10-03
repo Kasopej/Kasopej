@@ -24,7 +24,10 @@ He/Him
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/strongunsullied) 
 - [LinkedIn](https://www.linkedin.com/in/kasopejohnson) 
-- [My hosted project](https://vuejs-stocks.netlify.app/) 
+
+### 🏭 Projects
+- [Stocks trading application concept (built with Vue)](https://vuejs-stocks.netlify.app/) 
+- [Tailwind Pink-Themed Webpage](https://tailwind-pink-theme.netlify.app/)
 
 You can ask me anything (within reason). I am looking forward to new job opportunities, absorbimg knowledge🧠, collaborate🤝 and build amazing products 🏭 for the world🌍!
 
