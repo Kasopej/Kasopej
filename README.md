@@ -25,11 +25,16 @@ He/Him
 - [Twitter](https://twitter.com/strongunsullied) 
 - [LinkedIn](https://www.linkedin.com/in/kasopejohnson) 
 
-### 🏭 Projects
+### 🏭 Projects (Personal)
 - [Stocks trading application concept (built with Vue)](https://vuejs-stocks.netlify.app/) 
 - [Tailwind-based custom rebuild of responsive Softy Pinko web template](https://tailwind-pink-theme.netlify.app/)
 
-You can ask me anything (within reason). I am looking forward to new job opportunities, absorbimg knowledge🧠, collaborate🤝 and build amazing products 🏭 for the world🌍!
+### 🏭 Projects (Work)
+- [Smartflow Customer Payment Insights & Data application (CUPID)]([https://www.cupid.smartflowtech.com/) 
+- [Smartflow Station Manager Application](https://stationmanager.smartflowtech.com/)
+
+
+I am looking forward to new job opportunities, absorbimg knowledge🧠, collaborate🤝 and build amazing products 🏭 for the world🌍!
 
 
 <p align="center"> 
