@@ -27,7 +27,7 @@ He/Him
 
 ### 🏭 Projects
 - [Stocks trading application concept (built with Vue)](https://vuejs-stocks.netlify.app/) 
-- [Tailwind Pink-Themed Webpage](https://tailwind-pink-theme.netlify.app/)
+- [Tailwind-based custom rebuild of responsive Softy Pinko web template](https://tailwind-pink-theme.netlify.app/)
 
 You can ask me anything (within reason). I am looking forward to new job opportunities, absorbimg knowledge🧠, collaborate🤝 and build amazing products 🏭 for the world🌍!
 
