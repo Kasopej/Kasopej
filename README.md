@@ -30,7 +30,7 @@ He/Him
 - [Tailwind-based custom rebuild of responsive Softy Pinko web template](https://tailwind-pink-theme.netlify.app/)
 
 ### 🏭 Projects (Work)
-- [Smartflow Customer Payment Insights & Data application (CUPID)]([https://www.cupid.smartflowtech.com/) 
+- [Smartflow Customer Payment Insights & Data application (CUPID)](https://www.cupid.smartflowtech.com/) 
 - [Smartflow Station Manager Application](https://stationmanager.smartflowtech.com/)
 
 
