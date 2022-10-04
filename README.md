@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Kasope Johnson. I am a frontend software _engineer_. I have high deep knowledge of Javascript concepts (closures, OOP, super, higher order functions, this/context resolution, event loop/asynchronous programming, promises) & common Web APIs (Fetch, Storage, Location). I build professionally with JS frontend frameworks i.e Vue & React (I have a soft spot for Vue!).
+I am Kasope Johnson. I am a frontend software _engineer_. I have deep knowledge of Javascript concepts (closures, OOP, super, higher order functions, this/context resolution, event loop/asynchronous programming, promises) & common Web APIs (Fetch, Storage, Location). I build professionally with JS frontend frameworks i.e Vue & React (I have a soft spot for Vue!).
 
 ### 😄 Pronouns
 He/Him
