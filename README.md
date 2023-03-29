@@ -5,13 +5,8 @@ I am Kasope Johnson. I am a frontend software _engineer_. I have deep knowledge 
 ### 😄 Pronouns
 He/Him
 
-### 🌱 Positions Held (Past & Current)
 
-- 2xMentor at VueJs Forge (Largest Vuejs community event)
-- Frontend Software Engineer @ [Smartflow Technologies Ltd](https://github.com/smartflowtech-ssbu/) 
-- Led a DevCenter Community developer group
-
-### 🌱 A bit more about my work
+### 🌱 My stack
 
 - I use both Vue3 & Vue 2 extensively. I am very comfortable with both Options & Composition API. Tip: Did you know it's possible to mix & get advantages of both approaches in a single component? Just use 2 script in your.vue file! Doesn't work if you are using script "setup" compile flag as that uses a different compilation flow, you have to use normal scripts without setup (TS/JS)).
 - I also build with Nuxt [Link to repo](https://github.com/Kasopej/Nuxt-Ecommerce)
